@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Carousel-with-AdminPanel/static/css/main.0e421966.chunk.css",
+    "main.js": "/Carousel-with-AdminPanel/static/js/main.f43650ba.chunk.js",
+    "main.js.map": "/Carousel-with-AdminPanel/static/js/main.f43650ba.chunk.js.map",
+    "runtime-main.js": "/Carousel-with-AdminPanel/static/js/runtime-main.0be1e4bb.js",
+    "runtime-main.js.map": "/Carousel-with-AdminPanel/static/js/runtime-main.0be1e4bb.js.map",
+    "static/css/2.fb346933.chunk.css": "/Carousel-with-AdminPanel/static/css/2.fb346933.chunk.css",
+    "static/js/2.eea96ae1.chunk.js": "/Carousel-with-AdminPanel/static/js/2.eea96ae1.chunk.js",
+    "static/js/2.eea96ae1.chunk.js.map": "/Carousel-with-AdminPanel/static/js/2.eea96ae1.chunk.js.map",
+    "index.html": "/Carousel-with-AdminPanel/index.html",
+    "precache-manifest.3a5e725d1627ce10c788dc0d1d9ff94b.js": "/Carousel-with-AdminPanel/precache-manifest.3a5e725d1627ce10c788dc0d1d9ff94b.js",
+    "service-worker.js": "/Carousel-with-AdminPanel/service-worker.js",
+    "static/css/2.fb346933.chunk.css.map": "/Carousel-with-AdminPanel/static/css/2.fb346933.chunk.css.map",
+    "static/css/main.0e421966.chunk.css.map": "/Carousel-with-AdminPanel/static/css/main.0e421966.chunk.css.map",
+    "static/js/2.eea96ae1.chunk.js.LICENSE.txt": "/Carousel-with-AdminPanel/static/js/2.eea96ae1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0be1e4bb.js",
+    "static/css/2.fb346933.chunk.css",
+    "static/js/2.eea96ae1.chunk.js",
+    "static/css/main.0e421966.chunk.css",
+    "static/js/main.f43650ba.chunk.js"
+  ]
+}
